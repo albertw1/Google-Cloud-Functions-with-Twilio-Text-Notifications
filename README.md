@@ -1,4 +1,4 @@
-# Google-Cloud-Functions-with-Twilio-Text-Notifications
+# Google-Cloud-Functions-with-Twilio-Text-Notifications-in-NodeJS
 
 Suppose you have an iOS/Android app with a Firebase backend and you wish to be notified each time a user posts a new thread/message on your app, by text message. The code allows you to integrate Twilio's API with Google Cloud Functions, so that text messages can be sent when a qualifying event is triggered.
 
